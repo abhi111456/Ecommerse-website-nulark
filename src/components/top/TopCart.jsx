@@ -24,7 +24,7 @@ const TopCart = () => {
                   <span className='tright'>{value.desc}</span>
                 </div>
                 <div className='img'>
-                  <img src={value.cover}  />
+                  <img src={value.cover} alt="covver image" />
                 </div>
               </div>
             </>
