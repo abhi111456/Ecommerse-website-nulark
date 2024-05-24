@@ -28,7 +28,7 @@ const SlideCard = () => {
                   <button className='btn-primary'>Visit Collections</button>
                 </div>
                 <div className='right'>
-                  <img src={value.cover} alt='image' />
+                  <img src={value.cover}  />
                 </div>
               </div>
             </>
