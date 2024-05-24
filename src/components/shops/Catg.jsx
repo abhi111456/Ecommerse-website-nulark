@@ -37,7 +37,7 @@ const Catg = () => {
         {data.map((value, index) => {
           return (
             <div className='box f_flex' key={index}>
-              <img src={value.cateImg} alt="category image"/>
+              <img src={value.cateImg} alt="something"/>
               <span>{value.cateName}</span>
             </div>
           )
